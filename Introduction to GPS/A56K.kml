@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<Placemark>
+<name>A56K</name>
+<description><![CDATA[
+<b>Name:</b> <i>8418</i><br />
+<a href="http://www.geodesy.linz.govt.nz/gdb?code=A56K"><i>More Info</i></a><br />
+<b>Note:</b> LINZ does not guarantee that this mark is correctly located
+with respect to the underlying map.
+]]></description>
+<Point><coordinates>172.582238108, -43.525227185, 0.0</coordinates></Point>
+</Placemark>
+
+</kml>

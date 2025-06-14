@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+version="1.1"
+creator="Created by My Tracks from Daniel Qin"
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:topografix="http://www.topografix.com/GPX/Private/TopoGrafix/0/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/1 http://www.topografix.com/GPX/Private/TopoGrafix/0/1/topografix.xsd">
+<metadata>
+<name><![CDATA[Route from 2025-02-24 09:00:07]]></name>
+<desc><![CDATA[]]></desc>
+</metadata>
+<trk>
+<name><![CDATA[Route from 2025-02-24 09:00:07]]></name>
+<desc><![CDATA[]]></desc>
+<type><![CDATA[10]]></type>
+<extensions><topografix:color>3A73E2</topografix:color></extensions>
+<trkseg>
+<trkpt lat="-43.523029" lon="172.582601">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:08.199Z</time>
+</trkpt>
+<trkpt lat="-43.523021" lon="172.5826">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:09.199Z</time>
+</trkpt>
+<trkpt lat="-43.522907" lon="172.582744">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:14.061Z</time>
+</trkpt>
+<trkpt lat="-43.522859" lon="172.582617">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:20.111Z</time>
+</trkpt>
+<trkpt lat="-43.522851" lon="172.582597">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:23.112Z</time>
+</trkpt>
+<trkpt lat="-43.522849" lon="172.582594">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:26.146Z</time>
+</trkpt>
+<trkpt lat="-43.522814" lon="172.582694">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:28.309Z</time>
+</trkpt>
+<trkpt lat="-43.522806" lon="172.582707">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:29.611Z</time>
+</trkpt>
+<trkpt lat="-43.522799" lon="172.58269">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:30.603Z</time>
+</trkpt>
+<trkpt lat="-43.522796" lon="172.582661">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:32.102Z</time>
+</trkpt>
+<trkpt lat="-43.522795" lon="172.58265">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:33.113Z</time>
+</trkpt>
+<trkpt lat="-43.522796" lon="172.582642">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:34.111Z</time>
+</trkpt>
+<trkpt lat="-43.522797" lon="172.582637">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:35.107Z</time>
+</trkpt>
+<trkpt lat="-43.522798" lon="172.582637">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:36.110Z</time>
+</trkpt>
+<trkpt lat="-43.5228" lon="172.582637">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:37.103Z</time>
+</trkpt>
+<trkpt lat="-43.522804" lon="172.582634">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:38.103Z</time>
+</trkpt>
+<trkpt lat="-43.522807" lon="172.582632">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:39.102Z</time>
+</trkpt>
+<trkpt lat="-43.522809" lon="172.582631">
+<ele>26.8</ele>
+<time>2025-02-23T20:00:40.104Z</time>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
