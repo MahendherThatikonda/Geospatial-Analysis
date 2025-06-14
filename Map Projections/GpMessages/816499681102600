@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Wednesday, 5 March 2025 11:43:27 am</msg><msg code="0" type="50">Failed to convert: \\file\Usersm$\mth168\Home\Downloads\GISC_422\Lab_2\Lab2_2024_ArcPro_Intro\lab2\labdata.gdb\cities. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: \\file\Usersm$\mth168\Home\Downloads\GISC_422\Lab_2\Lab2_2024_ArcPro_Intro\lab2\labdata.gdb\latlong30. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: \\file\Usersm$\mth168\Home\Downloads\GISC_422\Lab_2\Lab2_2024_ArcPro_Intro\lab2\labdata.gdb\country. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="3">Succeeded at Wednesday, 5 March 2025 11:43:33 am (Elapsed Time: 5.56 seconds)</msg></messages>
