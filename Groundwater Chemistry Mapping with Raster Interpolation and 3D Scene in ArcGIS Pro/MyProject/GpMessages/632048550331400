@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 31 March 2025 9:04:32 am</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "c:\program files\arcgis\pro\Resources\ArcToolbox\scripts\XYTableToPoint.py", line 285, in &lt;module&gt;
+﻿    ", ".join(empty_out_bounds)))
+﻿^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "c:\program files\arcgis\pro\Resources\ArcToolbox\scripts\XYTableToPoint.py", line 271, in xy_table_to_points
+﻿    arcpy.AddIDMessage("WARNING", 1086, str(e).split("[")[1][:-1])
+﻿^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 6549, in CopyFeatures
+﻿    raise e
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\management.py", line 6540, in CopyFeatures
+﻿    gp.CopyFeatures_management(
+﻿  File "C:\Program Files\ArcGIS\Pro\Resources\ArcPy\arcpy\geoprocessing\_base.py", line 532, in &lt;lambda&gt;
+﻿    return lambda *args: val(*gp_fixargs(args, True))
+﻿                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+﻿arcgisscripting.ExecuteError: ERROR 000210: Cannot create output \\file\Usersm$\mth168\Home\Downloads\Lab6\Lab6\UC_Boreholes_WGS1984.shp
+ERROR 000308: Invalid field type
+Failed to execute (CopyFeatures).
+
+</msg><msg code="0" type="0">Failed script XY Table To Point...</msg><msg code="-2147467259" type="100">Failed to execute (XYTableToPoint).</msg><msg code="0" type="3">Failed at Monday, 31 March 2025 9:04:33 am (Elapsed Time: 0.78 seconds)</msg></messages>
