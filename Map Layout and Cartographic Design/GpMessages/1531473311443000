@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Monday, 17 March 2025 8:17:17 am</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\admin98. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\cities. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\country. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\latlong30. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\lakes. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="50">Failed to convert: C:\Users\mth168\OneDrive - University of Canterbury\Semester\GISC_421_LAB\Lab_4\lab4\lab4\labdata.gdb\rivers. Failed to execute. Parameters are not valid.
+ERROR 000733: Output Feature Class: Same as input Input Features
+Failed to execute (CopyFeatures).
+</msg><msg code="0" type="3">Succeeded at Monday, 17 March 2025 8:17:19 am (Elapsed Time: 2.21 seconds)</msg></messages>
