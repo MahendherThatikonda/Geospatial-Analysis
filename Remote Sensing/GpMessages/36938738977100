@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Saturday, 24 May 2025 2:17:12 pm</msg><msg code="-2147467259" type="100">﻿Traceback (most recent call last):
+﻿  File "c:\program files\arcgis\pro\Resources\ArcToolbox\scripts\calculategeometry.py", line 368, in &lt;module&gt;
+﻿    CalculateGeometry(fc, properties, lUnit, aUnit, cs, cformat)
+﻿  File "c:\program files\arcgis\pro\Resources\ArcToolbox\scripts\calculategeometry.py", line 160, in CalculateGeometry
+﻿    editor = arcpy.da.Editor(wkspc)
+﻿             ^^^^^^^^^^^^^^^^^^^^^^
+﻿RuntimeError: cannot open workspace
+</msg><msg code="0" type="0">Failed script Calculate Geometry Attributes...</msg><msg code="-2147467259" type="100">Failed to execute (CalculateGeometryAttributes).</msg><msg code="0" type="3">Failed at Saturday, 24 May 2025 2:17:12 pm (Elapsed Time: 0.81 seconds)</msg></messages>

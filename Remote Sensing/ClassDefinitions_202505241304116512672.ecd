@@ -1,0 +1,57 @@
+{
+  "EsriClassifierDefinitionFile" : 0,
+  "FileVersion" : 3,
+  "NumberDefinitions" : 1,
+  "Definitions" : [
+    {
+      "Classifier" : "RandomTrees",
+      "NumberClasses" : 3,
+      "RasterIsSegmented" : false,
+      "NumberBands" : 6,
+      "Classes" : [
+        {
+          "ClassValue" : 10,
+          "ClassName" : "Water",
+          "Red" : 84,
+          "Green" : 117,
+          "Blue" : 168
+        },
+        {
+          "ClassValue" : 20,
+          "ClassName" : "Developed",
+          "Red" : 232,
+          "Green" : 209,
+          "Blue" : 209
+        },
+        {
+          "ClassValue" : 40,
+          "ClassName" : "Forest",
+          "Red" : 133,
+          "Green" : 199,
+          "Blue" : 126
+        }
+      ],
+      "TrainingSampleFile" : "TrainingSamples_202505241254132341077",
+      "Raster1" : "Extract_Mult1",
+      "MaxNumTrees" : 1000,
+      "MaxTreeDepth" : 30,
+      "MaxNumSamplesPerClass" : 1000,
+      "CrossValidationRate" : 0.99956483900547033,
+      "NumberTrees" : 1,
+      "VariableImportance" : [
+        0.17266186042655346,
+        0,
+        0.3471222909020012,
+        0.097122298352581363,
+        0.38309351306596323,
+        0
+      ],
+      "SizeOfByteArray" : 568,
+      "MaxStringSizeUsed" : 1024,
+      "NumberOfStrings" : 1,
+      "ByteArrayAsArrayOfStrings" : [
+        "H4sIAAAAAAAACrWTy47TMBSG95X6DmfDahLLt1yaHXt4AISQ5SZuseTEwXaqqRDvjnJpGlo6Q6eDlSx8Lvb5zvn94cvHz58KgvB6FcfxemVb1ZQHURvhglPKF-sVAOysq2UogA077UVppPd6p5UrgAzGg3RCGlNANm9L2zWhgHQwWFeJK2Mpw9I4nhSc1I1u9qKVTtZTBQDQeSV855zdy6B8AfjkqOWzKGVQe-t07yDJyePU3invtW2ELMvOyfJYAEbLxEq14XsBdM6pdSO8rFuj5rLmm0pnvRcHaXQlQ3_qzppqWUojy6APqoeazXtjt9IMnLp6XvZr2H4FHAGJgEbAIuARJPBtjgjHVk0hFx-ZovoW2p3_e9Dld8rppyeM3CrjFwVM3lp737ffd1sfBjeKbvxThrVboZyzvRgQSdM8JYSzhLINxamKMTsT1611QTblQEVQRtOU5BlRMSbjoQzxjFDKCB1tGzRsMe9jaHRqNDCUM7xhCUtPuVMxzajbWUyziAEgntMBGlstPNf-cU3ymAc8r4M0nVqKaXGwq8cHMg74Ote3RofLu6cK4GffqAJH8KOTRodjQRDnGSWY0YzwnLMsUU-YnTtxsYwqcsQT_MdST5jAr3-EJbdgyeuw5C2wdAmLU8wTnuSbAXUo_UVYiugjsPQWLH0dlr4Flp1hWUJRNDLkjzCw91Pn_Xfc36f7Z3G_8O4X9_96yXwhbpKn48A5R48r9B2n-2DnfwP3OtsZRggAAAAA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "version" : 1,
+  "name" : "Raster Functions History",
+  "historyItems" : [
+    {
+      "id" : "{5E3BCECA-E048-41EE-A897-4CB59CB754E5}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "NDVI",
+      "description" : "Creates a single band dataset that represents vegetation health, based on the difference between the red and near infrared bands. The negative values represent clouds, water, and snow, and values near zero represent rock and bare soil.",
+      "rftPath" : "NDVI_{5E3BCECA-E048-41EE-A897-4CB59CB754E5}.rft.xml",
+      "startTime" : "638836404200000000",
+      "endTime" : "638836404200000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{1DC300AC-4093-4A3D-A457-E8D7376C4269}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Extract Bands",
+      "description" : "Specifies which bands to work with when using multiband datasets.",
+      "rftPath" : "Extract Bands_{1DC300AC-4093-4A3D-A457-E8D7376C4269}.rft.xml",
+      "startTime" : "638836406310000000",
+      "endTime" : "638836406310000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    },
+    {
+      "id" : "{2249B275-B19A-4A96-BEA1-1585F3283E3A}",
+      "type" : 1,
+      "status" : 2,
+      "name" : "Remap",
+      "description" : "Changes pixel values by assigning new values to ranges of pixel values or using an external table.",
+      "rftPath" : "Remap_{2249B275-B19A-4A96-BEA1-1585F3283E3A}.rft.xml",
+      "startTime" : "638836410750000000",
+      "endTime" : "638836410750000000",
+      "remoteJobStateInfo" : {
+        "ID" : "_lcljob",
+        "Status" : 5,
+        "ReturnValue" : "",
+        "Messages" : [
+          {
+            "Text" : "Submitted.",
+            "Type" : 0
+          },
+          {
+            "Text" : "Executing...",
+            "Type" : 0
+          },
+          {
+            "Text" : "Succeeded.",
+            "Type" : 0
+          }
+        ]
+      }
+    }
+  ]
+}
